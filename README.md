@@ -29,8 +29,8 @@ Avant de pouvoir exécuter cette application, vous devez avoir Node.js et npm (o
 
 1. **Cloner le dépôt (si vous avez accès au code source) :**
     ```bash
-    git clone [URL_DU_DEPOT]
-    cd [NOM_DU_DOSSIER_DU_PROJET]
+    git clone https://github.com/Lunaris-AC/Todo-Notes---TP-IPSSI-React.JS.git
+    cd Todo-Notes---TP-IPSSI-React.JS-main
     ```
 
 2. **Installer les dépendances :**
